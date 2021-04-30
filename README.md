@@ -1,4 +1,4 @@
-# Knowledge-Graph-
+# Knowledge-Graph
 Some Books and Courses for Knowledge Graph Study
 
 1, Courses
