@@ -47,29 +47,29 @@ http://libgen.gs/item/index.php?md5=61438F3E461DF4F4553E0D602F7D36ED
       4.2	Ontology Authoring (Question-Driven approach)
       4.3	Semi-automated Linking of enterprise data for virtual KG (Semantic tagging and data linking)
     
-    5.  Construction of Enterprise Knowledge Graphs (II)* 
+    5.   Construction of Enterprise Knowledge Graphs (II)* 
       5.1  Named Entity, Thematic scope
       5.2  Schema learning for KG
     
-    6.  Understanding Knowledge Graphs 
+    6.   Understanding Knowledge Graphs 
       6.1  The Things in KG
       6.2  Entity description 
       6.3  Profiling KG: Summarization 
       6.4  Query Generation 
 
-    7.  QA in KG
+    7.   QA in KG
       7.1  Over Text Doc.
       7.2  QA over KG
       7.3  Waston DeepQA
 
     Part III Industrial Applications and Successful Stories
 
-    8	Success Stories
+    8.	  Success Stories
       8.1  In the Media Industry
       8.2  In Cultural Heritage
       8.3  In healthcare
 
-    9	The future
+    9.	  The future
 
 
     
