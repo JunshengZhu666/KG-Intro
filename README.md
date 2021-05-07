@@ -65,11 +65,12 @@ http://libgen.gs/item/index.php?md5=61438F3E461DF4F4553E0D602F7D36ED
     Part III Industrial Applications and Successful Stories
 
     8.Success Stories
-      8.1  In the Media Industry
-      8.2  In Cultural Heritage
-      8.3  In healthcare
+      8.1  In the Media Industry (Make enterprise data visualized and understandable)
+      8.2  In Cultural Heritage (Structuring information from heterogeneous data)
+      8.3  In healthcare (Served as a decision support system; built from NLP)
 
     9.The future
-
+      9.1  Whole book conclusion
+      9.2  Get started Recommendations (P254)
 
     
