@@ -164,4 +164,75 @@ http://libgen.gs/item/index.php?md5=61438F3E461DF4F4553E0D602F7D36ED
       9.1  Whole book conclusion
       9.2  Get started Recommendations (P254)
 
-    
+Papers for Knowleage Graph Question Answering
+
+==============================================
+==============================================
+
+1， Agricultural Knowleage Graph 
+
+1,1 AgriKG: An Agricultural Knowledge Graph and Its Applications 
+
+(https://link.springer.com/chapter/10.1007/978-3-030-18590-9_81)
+
+(code: https://github.com/qq547276542/Agriculture_KnowledgeGraph)
+
+  Named Entities Recognition: web crawling 
+  
+  Relation Extraction: web crawling + neural extractor(2,1)
+  
+  Question Answering: entity linking + constraint & question subgraph matching (3,1) + question templates
+  
+----------------------------------------------
+
+1,2 Agriculture Knowledge Graph Construction and Application
+  
+  Named Entities Recognition + Relation Extraction: web crawling + jointly extract entity and relation(2,2)
+  
+  Question Answering: question classifer SVM + question templates 
+
+(https://iopscience.iop.org/article/10.1088/1742-6596/1756/1/012010/pdf)
+
+2, Knowleage Graph Construction
+
+2,1 Neural Relation Extraction with Selective Attention over Instances
+
+(https://aclanthology.org/P16-1200.pdf)
+
+(code: https://github.com/thunlp/OpenNRE)
+
+2,2 Joint entity recognition and relation extraction as a multi-head selection problem
+
+(https://arxiv.org/abs/1804.07847)
+
+(code: https://github.com/bekou/multihead_joint_entity_relation_extraction)
+
+3, Knowleage Graph Question Answering 
+
+3,1 Constraint-Based Question Answering with Knowledge Graph
+
+(https://aclanthology.org/C16-1236.pdf)
+
+3,2 The Web as a Knowledge-base for Answering Complex Questions
+
+(https://arxiv.org/pdf/1803.06643.pdf)
+
+(code: https://github.com/alontalmor/WebAsKB)
+
+4, Entity and Relationship extraction model with code website
+
+https://paperswithcode.com/task/relation-extraction
+
+5, Knowledge Graph Decision Support 
+
+5,1 A Data-Intensive CDSS Platform Based on Knowledge Graph (https://sci-hub.se/10.1007/978-3-030-01078-2_13) 
+
+inquiry, (input a text or voice describing the statues and complaints of a patient --> the entities are retrieved from the text and distribute to different entity labels, these missing labels not detected in the text for example like patient weight or past history are further asked to users for completion )
+
+inspection, (give recommendation tests)
+
+diagnosis, (give the possible diseases ranking)
+
+medication & treatment, (all the results from previous steps are input to the treatment and prognosis process and thus give final suggestion)
+
+
